@@ -1,0 +1,17 @@
+# JetBrains
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# virtual environments
+.venv/
+*/.venv/
+
+# build artifacts
+build/
+dist/
+*.egg-info/
